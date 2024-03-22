@@ -1,0 +1,68 @@
+@font-face {
+    font-family: "anothertag";
+    src: url("./fonts/aAnotherTag.otf");
+}
+@font-face {
+    font-family: "nextcustom";
+    src: url("./fonts/Next\ Custom.ttf");
+}
+@font-face {
+    font-family: "fontbubble";
+    src: url("./fonts/gothic!.ttf");
+}
+@font-face {
+    font-family: "urbancalligraphy";
+    src: url("./fonts/UrbanCalligraphy.ttf");
+}
+@font-face {
+    font-family: "graffonti";
+    src: url("./fonts/PotLand.ttf");
+}
+@font-face {
+    font-family: "throwupz";
+    src: url("./fonts/pixelfont1.TTF");
+}
+@font-face {
+    font-family: "boofslinger";
+    src: url("./fonts/OldeEnglish.ttf");
+}
+
+h1 {
+    font-size: 100px;
+    letter-spacing: 10px;
+    font-family: "anothertag", sans-serif;
+}
+
+h2 {
+    font-size: 100px;
+    font-family: "nextcustom", sans-serif;
+}
+
+h3 {
+    font-size: 100px;
+    font-family: "fontbubble", sans-serif;
+    letter-spacing: 5px;
+}
+
+h4 {
+    font-size: 100px;
+    font-family: "urbancalligraphy", sans-serif;
+    letter-spacing: 10px;
+}
+
+h5 {
+    font-size: 100px;
+    font-family: "graffonti", sans-serif;
+    letter-spacing: 2px;
+    font-weight:100;
+}
+
+h6 {
+    font-size: 100px;
+    font-family: "throwupz", sans-serif;
+}
+
+h7 {
+    font-size: 100px;
+    font-family: "boofslinger", sans-serif;
+}
